@@ -8,7 +8,7 @@ layout: nil
  <link href="http://blog.thejit.org/feed.xml" rel="self"/>
  <link href="http://blog.thejit.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://blog.thejit.org/</id>
+ <id>http://philogb.github.com/notes/</id>
  <author>
    <name>Nicolas Garcia Belmonte</name>
    <email>philogb@gmail.com</email>
@@ -19,7 +19,7 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://blog.thejit.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://blog.thejit.org{{ post.id }}</id>
+   <id>http://philogb.github.com/notes{{ post.id }}</id>
    <content type="html">
     {% if post.wordpress_id %}
       Sorry, the contents of this post are not available in the RSS. 
