@@ -28,8 +28,11 @@ natural number. Then he constructs this *Gödel number*, a number that
 cannot be produced from the set of rules mapped from this consistent
 axiomatic system.
 
-As I understand it, Gödel's Theorem attacked formalists and
-logic-positivists.
+As I understand it, Gödel's theorem attacked formalists and
+logic-positivists, because by proving that all consistent axiomatic
+systems derived from first-order logic are incomplete, the idea of
+having a system that would explain all phenomena in nature was
+destroyed.
 
 Quine though, seems to be have an optimistic view about this:
 
