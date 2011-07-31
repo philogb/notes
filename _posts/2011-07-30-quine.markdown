@@ -14,9 +14,9 @@ One of the papers I read was *On formally undecidable
 propositions of Principia Mathematica and related systems* by Kurt
 Gödel.
 
-*Gödel's Theorem* states (in layman's terms) that in any (consistent) axiomatic system
-P there's a proposition *v Gen r* that can't be inferred by the axioms 
-and inference rules defined within P. 
+*Gödel's Theorem* says that in any (consistent) axiomatic system 
+there's a proposition that can't be inferred by the axioms 
+and inference rules defined within. 
 Nor the proposition or its negation can be inferred
 actually. 
 
