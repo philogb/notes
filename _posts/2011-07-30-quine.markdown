@@ -16,8 +16,8 @@ Gödel.
 
 *Gödel's Theorem* says that in any (consistent) axiomatic system 
 there's a proposition that can't be inferred by the axioms 
-and inference rules defined within. 
-Nor the proposition or its negation can be inferred
+and inference rules defined within the system. 
+Neither the proposition nor its negation can be inferred
 actually. 
 
 I find the demonstration of this theorem very interesting, since
