@@ -30,8 +30,8 @@ axiomatic system.
 
 As I understand it, Gödel's theorem attacked formalists and
 logic-positivists, because by proving that all consistent axiomatic
-systems derived from first-order logic are incomplete, the idea of
-having a system that would explain all phenomena in nature was
+systems complex enough to explain phenomena are incomplete, the idea of
+having a system that would explain all things in nature was
 destroyed.
 
 Quine though, seems to be have an optimistic view about this:
