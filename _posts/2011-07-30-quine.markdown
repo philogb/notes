@@ -1,0 +1,64 @@
+--- 
+layout: post
+title: Quine
+categories: [Philosophy]
+---
+
+Last week I started reading a new book called *Quine in Dialogue*. It's 
+a mix of interviews, articles and letters involving the work of Quine
+and also other philosophers/mathematicians like Russell, Carnap, etc.
+
+It's been a while since I last read something related to philosophy of
+mathematics. I was very interested in that when I was at the university.
+One of the papers I read was *On formally undecidable
+propositions of Principia Mathematica and related systems* by Kurt
+Gödel.
+
+*Gödel's Theorem* states (in layman's terms) that in any (consistent) axiomatic system
+P there's a proposition *v Gen r* that can't be inferred by the axioms 
+and inference rules defined within P. 
+Nor the proposition or its negation can be inferred
+actually. 
+
+I find the demonstration of this theorem very interesting, since
+in order to prove this Gödel needs to define a meta-system in which to 
+make a proof about formal systems. He maps symbols of logic to natural numbers 
+and creates a system where all propositions in logic are mapped to a
+natural number. Then he constructs this *Gödel number*, a number that
+cannot be produced from the set of rules mapped from this consistent
+axiomatic system.
+
+As I understand it, Gödel's Theorem attacked formalists and
+logic-positivists.
+
+Quine though, seems to be have an optimistic view about this:
+
+*In fact, you know, Gödel's proof shows us a byproduct - maybe I should
+go back a step: Gödel's proof applies to any formalism, formalism being
+sharply defined, but what the definition comes to is that rules of proof
+are formal if they could be programmed on a computer. And a proof
+procedure is formal if it can be tested on a computer to see whether it
+was carried through correctly or not. So, this is very liberal, and
+anything that could be thought of really as a  proof beyond pure
+adventure surely should be formal.*
+
+*The point is that Gödel's proof is always carried out relative to some
+given formalism; he doesn't give the formalism, but given any formalism
+that fulfills these requirements for a formalism, relative to that you
+can construct this sentence, which cannot be proved by that formalism,
+unless the formalism is such that you could prove a falsity. In fact, if
+you could prove it, it would be false. What I wanted to bring out here
+is that it also comes out of Gödel's proof that this formula, this
+undecidable formula, is in fact true. And that you can, then, adopt it
+as a further axiom, strenghten your system, now there is a system, in
+which that previously undecidable theorem is a theorem. But then
+reconstruct Gödel's whole argument relative to this extended system, you
+get another. And that's so, but - surely Gödel wouldn't have conceded
+either that this shows that formalism is a dead end, and that something
+else should be found; but on the contrary, this is where formalism
+really in an informal way has vindicated itself, in showing the thing to
+be true. (Pause) It says that you can extend your horizon, but there's
+always a further step with which yout horizon could be extended, and
+that's Gödel's theorem.*
+
+
