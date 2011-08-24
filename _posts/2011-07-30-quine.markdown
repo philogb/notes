@@ -1,40 +1,12 @@
 --- 
 layout: post
 title: Quine
+permalink: quine
 categories: [Philosophy]
 ---
 
-Last week I started reading a new book called *Quine in Dialogue*. It's 
-a mix of interviews, articles and letters involving the work of Quine
-and also other philosophers/mathematicians like Russell, Carnap, etc.
-
-It's been a while since I last read something related to philosophy of
-mathematics. I was very interested in that when I was at the university.
-One of the papers I read was *On formally undecidable
-propositions of Principia Mathematica and related systems* by Kurt
-Gödel.
-
-*Gödel's Theorem* says that in any (consistent) axiomatic system 
-there's a proposition that can't be inferred by the axioms 
-and inference rules defined within the system. 
-Neither the proposition nor its negation can be inferred
-actually. 
-
-I find the demonstration of this theorem very interesting, since
-in order to prove this Gödel needs to define a meta-system in which to 
-make a proof about formal systems. He maps symbols of logic to natural numbers 
-and creates a system where all propositions in logic are mapped to a
-natural number. Then he constructs this *Gödel number*, a number that
-cannot be produced from the set of rules mapped from this consistent
-axiomatic system.
-
-As I understand it, Gödel's theorem attacked formalists and
-logic-positivists, because by proving that all consistent axiomatic
-systems complex enough to explain phenomena are incomplete, the idea of
-having a system that would explain all things in nature was
-destroyed.
-
-Quine though, seems to be have an optimistic view about this:
+Interesting thoughts by [Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine) 
+on [Gödel's proof](http://en.wikipedia.org/wiki/Gödel's_incompleteness_theorems):
 
 *In fact, you know, Gödel's proof shows us a byproduct - maybe I should
 go back a step: Gödel's proof applies to any formalism, formalism being
