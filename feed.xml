@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Nicolas Garcia Belmonte</title>
- <link href="http://blog.thejit.org/feed.xml" rel="self"/>
- <link href="http://blog.thejit.org/"/>
+ <link href="http://philogb.github.com/notes/feed.xml" rel="self"/>
+ <link href="http://philogb.github.com/notes/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://philogb.github.com/notes/</id>
  <author>
@@ -17,15 +17,11 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://blog.thejit.org{{ post.url }}"/>
+   <link href="http://philogb.github.com/notes/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://philogb.github.com/notes{{ post.id }}</id>
+   <id>http://philogb.github.com/notes/{{ post.id }}</id>
    <content type="html">
-    {% if post.wordpress_id %}
-      Sorry, the contents of this post are not available in the RSS. 
-    {% else %}
       {{ post.content | xml_escape }}
-    {% endif %}
    </content>
  </entry>
  {% endfor %}
