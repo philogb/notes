@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Principles of Analytical Design 
-permalink: minard
+permalink: Minard
 categories: [Information Visualization]
 ---
 
@@ -10,9 +10,9 @@ In the fifth chapter of [Beautiful Evidence](http://www.amazon.com/Beautiful-Evi
 Minard](http://en.wikipedia.org/wiki/Charles_Joseph_Minard)'s flow map to
 describe six Principles of Analytical Design.
 
-[![Minard](/notes/assets/minard.png)](/notes/assets/minard.big.png)
+[![Minard](/notes/assets/Minard.png)](/notes/assets/Minard.big.png)
 
-*[Click here](/notes/assets/minard.big.png) for a bigger image.*
+*[Click here](/notes/assets/Minard.big.png) for a bigger image.*
 
 The visualization is a *Figurative map of the successive losses in men
 of the French Army in the Russian campaign 1812-1813.* Minard displays
