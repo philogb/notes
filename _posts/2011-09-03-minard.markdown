@@ -1,0 +1,45 @@
+--- 
+layout: post
+title: Principles of Analytical Design 
+permalink: minard
+categories: [Information Visualization]
+---
+
+In the fifth chapter of [Beautiful Evidence](http://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177), 
+[Edward Tufte](http://en.wikipedia.org/wiki/Edward_tufte) uses [Charles
+Minard](http://en.wikipedia.org/wiki/Charles_Joseph_Minard)'s flow map to
+describe six Principles of Analytical Design.
+
+[![Minard](/notes/assets/minard.png)](/notes/assets/minard.big.png)
+
+*[Click here](/notes/assets/minard.big.png) for a bigger image.*
+
+The visualization is a *Figurative map of the successive losses in men
+of the French Army in the Russian campaign 1812-1813.* Minard displays
+six variables in different visual encodings: the *size* of the army, its
+*two-dimensional location* (latitude and longitude), the *direction* of
+the army's movement, and *temperature* on various *dates* during the
+retreat from Moscow.
+
+The six Principles described in the Book are:
+
+1. *Comparisons* - Show comparisons, contrasts, differences.
+
+2. *Causality, Mechanism, Structure, Explanation* - Show causality,
+   mechanism, explanation, systematic structure.
+
+3. *Multivariate Analysis* - Show multivariate data; that is show more
+   than 1 or 2 variables.
+
+4. *Integration of Evidence* - Completely integrate words, numbers,
+   images, diagrams.
+
+5. *Documentation* - Thoroughly describe the evidence. Provide a detailed
+   title, indicate the authors and sponsors, document the data sources,
+show complete measurement scales, point out relevant issues.
+
+6. *Content Counts Most of All* - Analytical presentations ultimately
+   stand or fall depending on the quality, relevance and integrity of
+their content.
+
+Can you spot those principles in Minard's Map?
