@@ -10,9 +10,9 @@ who do analysis to mid-level managers to high-level leadership, key
 explanations and supporting information are filtered out. In this
 context, it is easy to understand how a senior manager might read this
 PowerPoint slide and not realize that it addresses a life-threatening
-situation.
+situation.*
 
-At many points during its investigation, the Board was surprised to
+*At many points during its investigation, the Board was surprised to
 receive similar presentation slides from NASA officials in place of
 technical reports. The Board views the endemic use of PowerPoint
 briefing slides instead of technical papers as an illustration of the
