@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Hardy 
+permalink: hardy
+categories: [Philosophy]
+---
+
+*I believe that mathematical reality lies outside of us, and that our
+function is to discover, or observe it, and that the theorems which we
+prove, and which we describe grandiloquently as our 'creations' are
+simply notes on our observations.*
+
+G.H. Hardy.
+
+
