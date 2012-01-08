@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: Hamilton 
+permalink: hamilton
+categories: [Math]
+---
+
+*Most mathematicians have heard the story of how Hamilton 
+invented the quaternions. In 1835, at the age of 30, he had discovered 
+how to treat complex numbers as pairs of real numbers. Fascinated by the 
+relation between C and 2-dimensional geometry, he tried for many years 
+to invent a bigger algebra that would play a similar role in
+3-dimensional geometry. In modern language, it seems he was looking for
+a 3-dimensional division algebra. His quest built to its climax in
+October 1843. He later wrote to his son, "Every morning in the early
+part of the above-cited month, on my coming down to the breakfast, your
+(then) little brother William Edwin, and yourself, used to ask me: 'Well
+Papa, can you multiply triplets?' Whereto I was always obliged to reply,
+with a sad shake of the head: 'No, I can only add and substract them'."
+The problem, of course, was that there exists no 3-dimensional normed
+division algebra. He really needed a 4-dimensional algebra.
+Finally, on the 16th of October, 1843, while walking with his wife along
+the Royal Canal to a meeting of the Royal Irish Academy in Dublin, he
+made his momentous discovery, "That is to say, I then and there felt the
+galvanic circuit of thought close; and the sparks which fell from it
+were the fundamental equations between i, j, k; exactly such as I have
+used them ever since." And in a famous act of mathematical vandalism, he
+carved these equations into the stone of the Brougham Bridge:*
+
+i<sup>2</sup> = j<sup>2</sup> = k<sup>2</sup> = ijk = -1
+
+(source: *The Octonions* by John Baez).
+
+It took eight years for Hamilton to discover Quaternions. Now
+compare that to the average time it takes you to complete a
+project.
+
