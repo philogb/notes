@@ -11,7 +11,7 @@ how to treat complex numbers as pairs of real numbers. Fascinated by the
 relation between C and 2-dimensional geometry, he tried for many years 
 to invent a bigger algebra that would play a similar role in
 3-dimensional geometry. In modern language, it seems he was looking for
-a 3-dimensional division algebra. His quest built to its climax in
+a 3-dimensional normed division algebra. His quest built to its climax in
 October 1843. He later wrote to his son, "Every morning in the early
 part of the above-cited month, on my coming down to the breakfast, your
 (then) little brother William Edwin, and yourself, used to ask me: 'Well
