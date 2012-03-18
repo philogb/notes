@@ -1,0 +1,70 @@
+--- 
+layout: post
+title: Comics 
+permalink: comics
+categories: [Comics]
+---
+
+One day we bought a whiteboard and my wife started to draw on
+it. She made these comics, some in french, others in spanish. All of
+them are untitled. I'll put them here to keep a record of them, I think
+they're amazing.
+
+###Untitled I
+
+![c11](/notes/assets/bd/c11.jpg)
+
+![c12](/notes/assets/bd/c12.jpg)
+
+
+###Untitled II
+
+![c21](/notes/assets/bd/c31.jpg)
+
+![c22](/notes/assets/bd/c32.jpg)
+
+![c23](/notes/assets/bd/c33.jpg)
+
+![c24](/notes/assets/bd/c34.jpg)
+
+![c23](/notes/assets/bd/c35.jpg)
+
+![c24](/notes/assets/bd/c36.jpg)
+
+###Untitled III
+
+![c21](/notes/assets/bd/c40.jpg)
+
+###Untitled IV
+
+![c21](/notes/assets/bd/c61.jpg)
+
+![c22](/notes/assets/bd/c62.jpg)
+
+![c23](/notes/assets/bd/c63.jpg)
+
+![c24](/notes/assets/bd/c64.jpg)
+
+![c23](/notes/assets/bd/c65.jpg)
+
+![c24](/notes/assets/bd/c66.jpg)
+
+###Untitled V
+
+![c21](/notes/assets/bd/c71.jpg)
+
+![c22](/notes/assets/bd/c72.jpg)
+
+###Untitled VI
+
+![c21](/notes/assets/bd/c80.jpg)
+
+###Untitled VII
+
+![c21](/notes/assets/bd/c90.jpg)
+
+...more to come, but here's a picture of the artist while you're
+waiting:
+
+![ena](/notes/assets/bd/ena.jpg)
+
