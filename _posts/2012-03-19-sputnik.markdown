@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Laika 
+permalink: laika
+categories: [Misc]
+---
+
+![sputnik](/notes/assets/sputnik.jpg)
+
+*Encouraged by the success of Sputnik 1, the Soviets decided that they
+should immediately follow up with a new space exploration achievement
+-in time for the 40th anniversary of the 1917 Bolshevik Revolution. The
+new spacecraft was six times heavier than Sputnik 1 and carried a dog,
+Laika (Barker), as its lone passenger. The entire vehicle was designed 
+from scratch within four weeks, which gave engineers no time for testing 
+or quality checks. The craft was successfully launched on November 3 1957, 
+and Laika became the first animal to orbit earth. No plans had been made
+for Laika's recovery, and she died long before Sputnik 2 reentered
+Earth's atmosphere in April 1958.*
+
+Picture taken at the *Museum of Flight* in *Seattle*.
