@@ -16,6 +16,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 10px;
+  text-align: left;
 }
 
 h1 {
@@ -169,7 +170,7 @@ table {
 
 /* standard */
 
-#post pre {
+pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
@@ -181,14 +182,14 @@ table {
   margin-bottom: 1em;
 }
 
-#post code {
+code {
   border: 1px solid #ddd;
   background-color: #eef;
   font-size: 85%;
   padding: 0 .2em;
 }
 
-#post pre code {
+pre code {
   border: none;
 }
 
