@@ -20,29 +20,29 @@ l'espace que deux dimensions.*
 dénués d'épaisseur, aient la forme d'une figure sphérique, et non d'une
 figure plane et soient tous sur une meme sphère sans pouvoir s'en
 écarter. Quelle géometrie pourront-ils construire? Il est clair d'abord
-qu'ils n'attribueront à l'espace que deux dimensions; ce qui jouera eux
+qu'ils n'attribueront à l'espace que deux dimensions; ce qui jouera pour eux
 le role de la ligne droite, ce sera le plus court chemin d'un point à un
 autre sur la sphère, c'est à dire un arc de grand cercle, en un mot leur
 géometrie sera la géometrie sphérique.*
 
-*Ce qu'ils appelleront l'espace, ce sera cette sphère d'où ils peuvent
+*Ce qu'ils appelleront l'espace, ce sera cette sphère d'où ils ne peuvent
 sortir et sur laquelle se passent tous les phénomènes dont ils peuvent
 avoir connaissance. Leur espace sera donc sans limites puisqu'on peut
 sur une sphère aller toujours devant soi sans jamais etre arreté, et
 cependant il sera fini; on n'en trouvera jamais le bout, mais on pourra
 en faire le tour.*
 
-*Eh bien, la géometrie de Riemann, c'est la géometrie sphérique étendue
+*Eh bien, la géométrie de Riemann, c'est la géométrie sphérique étendue
 à trois dimensions. Pour la construire, le mathématicien allemand a du
 jeter par-dessus bord, non seulement le postulatum d'Euclide, mais
-encore le premier axiome: Par deux point on ne peut faire passer qu'une
+encore le premier axiome: Par deux points on ne peut faire passer qu'une
 droite.*
 
-*Sur une sphère, par deux point donnés on ne peut faire en géneral qu'un
+*Sur une sphère, par deux points donnés on ne peut faire en géneral qu'un
 grand cercle (qui, comme nous venons de le voir, jouerait le role de la
 droite pour nos etres imaginaires), mais il y a une exception: si les
 deux points donnés sont diamétralement opposés, on pourra faire passer
-par ces deux points une infinité de gransa celcles.*
+par ces deux points une infinité de grands cercles.*
 
 
 *(...)*
@@ -50,7 +50,7 @@ par ces deux points une infinité de gransa celcles.*
 **La quatrième géometrie**
 
 *Parmi ces axiomes implicites, il en est un qui me semble mériter
-qualque attention, parce qu'en l'abandonnant, on peut construire une
+quelque attention, parce qu'en l'abandonnant, on peut construire une
 quatrième géométrie aussi cohérente que celles d'Euclide, de
 Lobatchevsky et de Riemman.*
 
@@ -67,7 +67,7 @@ deux droites viennent dans le prolongement l'une de l'autre.*
 conduit à une suite de théorèmes encore plus étranges que ceux de
 Lobatchevsky et de Riemann, mais également exempts de contradiction.*
 
-*Je ne citerai qu'un de ces théorèmes et he ne choisirai pas le plus
+*Je ne citerai qu'un de ces théorèmes et je ne choisirai pas le plus
 singulier: une droite réelle peut etre perpendiculaire à elle-meme.*
 
 *(...)*
@@ -79,12 +79,12 @@ plus étranges encore, qu'ils appellent non-archimédiennes. Ils les
 construisent en rejetant l'axiome d'Archimède en vertu duquel toute
 longueur donnée, multipliée par un entier suffisamment grand, finira par
 surpasser toute autre longueur donnée si grande qu'elle soit. Sur une
-droite non archimédienne , les points de notre géométrie ordinnaire
-existent tous, amis il y en a une infinité d'autres qui viennent
+droite non archimédienne, les points de notre géométrie ordinaire
+existent tous, mais il y en a une infinité d'autres qui viennent
 s'intercaler entre eux, de telle sorte qu'entre deux segments, que les
 géomètres de la vieille école auraient regardés comme contigus, on
 puisse caser une infinité de points nouveaux. En un mot, l'espace
-non-archimédien n'est plus un continu du second ordre, mpour employer le
+non-archimédien n'est plus un continu du second ordre, pour employer le
 langage du chapitre précédent, mais un continu du troisième ordre.*
 
 
