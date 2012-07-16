@@ -11,12 +11,15 @@ time):
 *Nous ne nous représentons donc pas les corps extérieurs dans l'espace
 géometrique, mais nous raisonnons sur ces corps, comme s'ils étaient
 situés dans l'espace géometrique.
+
 Quand on dit d'autre part que nous "localisons" tel objet en tel point
 de l'espace, qu'est-ce que cela veut dire?
+
 Cela signifie simplement que nous nous représentons les mouvements qu'il
 faut faire pour atteindre cet objet: et qu'on ne dise pas que pour se
 représenter ces mouvements, il faut projeter eux-memes dans l'espace et
 que, la notion d'éspace doit donc préexister.
+
 Quand je dis que nous nous représentons ces mouvements, je veux dire
 seulement que nous nous représentons les sensations musculaires qui les
 accompagnent et qui n'ont aucun caractère géometrique, qui par
