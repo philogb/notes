@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Géometries non Euclidiennes
+title: Géométries non Euclidiennes
 permalink:
 categories: [French, Philosophy]
 ---
