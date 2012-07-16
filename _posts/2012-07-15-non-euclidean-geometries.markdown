@@ -5,7 +5,7 @@ permalink:
 categories: [French, Philosophy]
 ---
 
-**La Géometrie de Riemann**
+**La Géométrie de Riemann**
 
 *Imaginons un monde uniquement peuplé d'etres dénués d'épaisseur; et
 supposons que ces animaux "infiniment plats" soient tous dans un meme
@@ -47,7 +47,7 @@ par ces deux points une infinité de grands cercles.*
 
 *(...)*
 
-**La quatrième géometrie**
+**La quatrième géométrie**
 
 *Parmi ces axiomes implicites, il en est un qui me semble mériter
 quelque attention, parce qu'en l'abandonnant, on peut construire une
@@ -72,7 +72,7 @@ singulier: une droite réelle peut etre perpendiculaire à elle-meme.*
 
 *(...)*
 
-**Les géometries de Hilbert**
+**Les géométries de Hilbert**
 
 *Enfin M. Veronese et M. Hilbert ont imaginé de nouvelles géométries
 plus étranges encore, qu'ils appellent non-archimédiennes. Ils les
