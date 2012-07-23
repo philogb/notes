@@ -18,7 +18,7 @@ force, ou la masse? Nous ne savons meme pas ce que c'est.*
 
 *Qu'est-ce que la masse? C'est répond Newton, le produit du volume par la
 densité. - Il vaudrait mieux dire, répondent Thomson et Tait, que la
-densté est le quotient de la masse par le volume. Qu'est-ce que la
+densité est le quotient de la masse par le volume. Qu'est-ce que la
 force? C'est, dira Kirchhoff, le produit de la masse par l'accélération.
 Mais alors, pourquoi ne pas dire que la masse est le quotient de la
 force par l'accélération?*
@@ -32,7 +32,7 @@ possession de deux règles: égalité de deux forces qui se font équlibre;
 égalité de l'action et de la réaction. Mais, nous l'avons vu plus haut,
 ces deux règles sont insuffissantes; nous sommes obligés de recourir à
 une troisième règle et d'admettre que certaines forces comme, par
-exemple, le poids d'un corps, sont contantes en grandeur et en
+exemple, le poids d'un corps, sont constantes en grandeur et en
 direction. Mais cette troisième règle, je l'ai dit, est une loi
 expérimentale; elle n'est qu'approximativement vraie; elle est une
 mauvaise définition.*
