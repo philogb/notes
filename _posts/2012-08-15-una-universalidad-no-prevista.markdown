@@ -5,7 +5,7 @@ permalink:
 categories: [Spanish, Philosophy]
 ---
 
-Existe una estrecha analogía entre las máquinas universales de este tipo
+*Existe una estrecha analogía entre las máquinas universales de este tipo
 y la universalidad a la que me referí (aunque sin usar esa palabra) al
 describir la potencia de los Principia Matematica. Bertrand Russell y
 Alfred North Whitehead no se dieron cuenta, pero Kurt Godel sí, de que,
@@ -16,11 +16,11 @@ habían hecho que su sistema formal PM sobrepasara un umbral crítico que
 lo convertía en "universal", o lo que es lo mismo, que lo hacía capaz de
 definir funciones de teoría de números que imitasen otros patrones
 arbitrariamente complejos (entre los que se hallaba incluso el propio
-PM, como demostró Godel con su astuta maniobra).
+PM, como demostró Godel con su astuta maniobra).*
 
-(...)
+*(...)*
 
-Pero en un determinado momento, cuando la abstracta teoría de la
+*Pero en un determinado momento, cuando la abstracta teoría de la
 computación de Alan Turing, basada en gran parte en el artículo de Godel
 de 1931, se topó con la cruda realidad de la ingeniería, algunos de los
 más receptivos (el propio Turing y John von Neumann, en especial)
@@ -34,9 +34,9 @@ móviles pudieran representar muchos papeles en lugar de comportarse
 siempre como simples teléfonos. Todo lo que tuvieron que hacer fue
 superar ese umbral de complejidad y tamaño de memoria que los limitaba a
 una única "melodía" y, a partir de ese instante, pudieron transformarse
-en cualquier cosa.
+en cualquier cosa.*
 
-Los pioneros de la computación veían sus ordenadores como artefactos
+*Los pioneros de la computación veían sus ordenadores como artefactos
 devoradores de números, pero no consideraban a estos últimos como un
 sustrato universal. Todavía hoy seguimos sin contemplarlos de este modo
 (y al hablar en plural me refiero a nuestra cultura en su conjunto y a
@@ -54,9 +54,9 @@ disipa virtualmente en el aire virtual. Los cosmólogos crean galaxias
 virtuales, las hacen evolucionar y observan lo que sucede cuando
 colisionan virtualmente. Los biólogos crean proteínas virtuales y
 observan cómo se pliegan siguiendo las complejas leyes de la química
-virtual de las submoléculas virtuales que las constituyen.
+virtual de las submoléculas virtuales que las constituyen.*
 
-Podríamos citar cientos de cosas que tienen lugar en las pantallas de
+*Podríamos citar cientos de cosas que tienen lugar en las pantallas de
 los ordenadores, pero a poca gente se le pasa por la cabeza el hecho de
 que todo eso sucede gracias a la adición y multiplicación de números
 enteros que tiene lugar en el nivel del hardware. Porque es eso
@@ -72,9 +72,10 @@ palabra "computadora", y ni siquiera perdura en algunos casos,
 sustituida por el término "ordenador". Tal palabra nos recuerda, si nos
 detenemos en ella, que por debajo de esas imágenes de colores, esos
 seductores juegos y esas increíbles búsquedas por internet, no hay otra
-cosa que aritmética de números enteros. Parece una broma, pero no lo es.
+cosa que aritmética de números enteros. Parece una broma, pero no lo
+es.*
 
-La cuestión es aún más sutil, por los mismos motivos que examinamos en
+*La cuestión es aún más sutil, por los mismos motivos que examinamos en
 el capítulo 11. Todo patrón puede ser visto como lo que literalmente es
 o como la representación de algo con lo que es isomorfo. Las palabras
 referentes a la aventura de Pomponnette también son aplicables, como de
@@ -93,7 +94,7 @@ histórica. Nacieron como máquinas de cálculo con números enteros y, por
 supuesto, aún podemos describirlas así; pero hoy en día nos damos
 cuenta, tal como hizo Godel en 1931, de que cabe percibir y hablar de
 esos dispositivos en términos que son radicalmente distintos de los que
-previeron sus creadores.
+previeron sus creadores.*
 
 
 Tomado de *Yo soy un extraño bucle* por Douglas R. Hofstadter.
