@@ -147,7 +147,7 @@ table {
 }
 
 #bio img {
-  border: 1px solid cyan; 
+  border: 1px solid cyan;
   padding: 3px;
   float: left;
   margin-left: 10px;
@@ -196,4 +196,5 @@ pre code {
 footer {
   display: block;
   font-size: 0.6em;
+  clear: both;
 }
