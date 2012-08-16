@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una universalidad no prevista
-permalink:
+permalink: una-universalidad-no-prevista
 categories: [Spanish, Philosophy]
 ---
 
