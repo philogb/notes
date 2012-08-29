@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La science et l'expérience
-permalink:
+permalink: la-science-et-l-experience
 categories: [French, Philosophy]
 ---
 

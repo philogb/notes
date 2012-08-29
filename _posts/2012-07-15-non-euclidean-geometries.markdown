@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Géométries non Euclidiennes
-permalink:
+permalink: non-euclidean-geometries
 categories: [French, Philosophy]
 ---
 

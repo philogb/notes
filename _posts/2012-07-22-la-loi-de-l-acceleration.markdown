@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La loi de l'accélération
-permalink:
+permalink: la-loi-de-l-acceleration
 categories: [French, Philosophy]
 ---
 
