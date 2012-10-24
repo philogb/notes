@@ -7,7 +7,7 @@ categories: [Misc., Philosophy]
 
 I had a good laugh in the train today while reading [Fashionable
 Nonsense](http://en.wikipedia.org/wiki/Fashionable_Nonsense), a critique
-on postmodernist intellectuals and how they abuse of science.
+on postmodernist intellectuals and their abuse of science.
 Here's an excerpt of a chapter about Baudrillard. The
 chapter starts like this:
 
