@@ -5,7 +5,7 @@ permalink: ordinal-numbers
 categories: [Math, Philosophy]
 ---
 
-This builds on the [previous article](). In that article we showed that
+This builds on the [previous article](/notes/cardinal-numbers/). In that article we showed that
 we don't really know what cardinal numbers are, but we do know how they
 behave. Similarly we showed that Peano's axioms do not define natural
 numbers but instead define any kind of progression.
@@ -46,7 +46,7 @@ Ok so now we can define an order type in intuitive set theory:
 The difficulty with this is is exactly the same we encountered with the
 corresponding definition of cardinal numbers: we cannot prove that the
 equivalence class \\(\\tilde{A}\\), which is the order type of \\(\\check{A}\\), is not empty. We would have to introduce
-an extra axiom similar to the one we showed in the [previous article]().
+an extra axiom similar to the one we showed in the [previous article](/notes/cardinal-numbers/).
 
 In view of the difficulties with definition by abstraction of cardinal
 numbers or order types, it is fortunate indeed that for the special case
