@@ -1,51 +1,60 @@
 ---
 layout: default
 ---
-<div class="title">
-  <a href="/notes/">Back to Home</a>
-</div>
 
-<div id="post">
-<div>
-	<div class="nav-previous">
-	{% if page.previous %}
-	  <a href="/notes/{{ page.previous.url }}">&#171; {{ page.previous.title }}</a>
-	{% endif %}
-	</div>
-	<div class="nav-next">
-	{% if page.next %}
-	  <a href="/notes/{{ page.next.url }}">{{ page.next.title }} &#187;</a>
-	{% endif %}
-	</div>
-</div>
-<div style="clear:both"></div>
-<h1>{{ page.title }}</h1>
-{% if page.categories %}
-<div class="description">
-  Posted in:
-  {% for cat in page.categories %}
-    {% if forloop.index0 == 0 %}
-    {{ cat }}
-    {% else %}
-    , {{ cat }}
+<div class="site">
+
+  <div class="title">
+    <a href="/notes/">Back to Home</a>
+  </div>
+
+  <div id="post">
+  <div>
+    <div class="nav-previous">
+    {% if page.previous %}
+      <a href="/notes/{{ page.previous.url }}">&#171; {{ page.previous.title }}</a>
     {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
+    </div>
+    <div class="nav-next">
+    {% if page.next %}
+      <a href="/notes/{{ page.next.url }}">{{ page.next.title }} &#187;</a>
+    {% endif %}
+    </div>
+  </div>
+  <div style="clear:both"></div>
+  <h1>{{ page.title }}</h1>
+  {% if page.categories %}
+  <div class="description">
+    Posted in:
+    {% for cat in page.categories %}
+      {% if forloop.index0 == 0 %}
+      {{ cat }}
+      {% else %}
+      , {{ cat }}
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
 
-{{ content }}
+  {{ content }}
 
 
-<div style="clear:both">
-	{% if page.previous %}
-	<div class="nav-previous">
-	  <a href="/notes/{{ page.previous.url }}">&#171; {{ page.previous.title }}</a>
-	</div>
-	{% endif %}
-	{% if page.next %}
-	<div class="nav-next">
-	  <a href="/notes/{{ page.next.url }}">{{ page.next.title }} &#187;</a>
-	</div>
-	{% endif %}
-</div>
+  <div style="clear:both">
+    {% if page.previous %}
+    <div class="nav-previous">
+      <a href="/notes/{{ page.previous.url }}">&#171; {{ page.previous.title }}</a>
+    </div>
+    {% endif %}
+    {% if page.next %}
+    <div class="nav-next">
+      <a href="/notes/{{ page.next.url }}">{{ page.next.title }} &#187;</a>
+    </div>
+    {% endif %}
+  </div>
+  </div>
+
+  <footer>
+    Copyright 2012 &copy; <a href="http://philogb.github.com/">Nicolas Garcia Belmonte</a>.
+    Unless otherwise specified, all content is <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>.
+  </footer>
 </div>

@@ -2,17 +2,11 @@
 layout: default
 title: Personal Notes about Anything
 ---
+<div class="site">
 
-
-<a class='rss' href="http://philogb.github.com/notes/feed.xml">
-  <img alt="suscribe" title="suscribe" src="/notes/assets/rss.png"/>
-</a>
-
-<div id='home' class='table-of-contents'>
-  {% for post in site.posts %}<div class='post'>
-      <h1>
-        <a href="/notes/{{ post.url }}">{{ post.title }}</a>
-      </h1>
+  <div id="home">
+    {% for post in site.posts %}
+    <h1><a href="/notes/{{ post.url }}">{{ post.title }}</a></h1>
       {% if post.categories %}
       <div class="description">
         Posted in:
@@ -25,6 +19,8 @@ title: Personal Notes about Anything
         {% endfor %}
       </div>
       {% endif %}
-    </div>{% endfor %}
-</div>
+      {{ post.content }}
+    {% endfor %}
+  </div>
 
+</div>
