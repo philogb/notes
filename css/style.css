@@ -128,3 +128,48 @@ footer {
   clear: both;
 }
 
+/*books*/
+#books2012 {}
+
+#books2012 .book {
+    display: inline-block;
+    width: 235px;
+    height: 330px;
+    margin: 5px;
+    padding: 0;
+    vertical-align: top;
+}
+
+#books2012 .book > img {
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+
+#books2012 .book .title {
+    font-size: 0.8em;
+    padding: 7px;
+    line-height: 1.3em;
+    text-align: center;
+}
+
+#books2012 .book .author {
+    font-size: 0.7em;
+    text-align: center;
+    font-style: italic;
+}
+
+#books2012 .book .title a {
+    color: black;
+    text-decoration: none;
+}
+
+#books2012 .book .title a:hover {
+    text-decoration: underline;
+}
+
+#books2012 .book .related-articles {
+    font-size: 0.7em;
+    text-align: center;
+}
+
