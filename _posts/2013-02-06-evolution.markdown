@@ -18,7 +18,7 @@ developed, and we are thus able to understand a lot more about the
 nature of things than we had any right to hope for.*
 
 *We live, apprently, in a world full of three-dimensional objects
-limited to two-dimensional surfaces. There it is not astonishing that
+limited to two-dimensional surfaces. Therefore it is not astonishing that
 our brain can cope with such objects: this skill is useful for survival
 and encouraged by natural selection. But natural selection does not
 explain how we came to understand the chemistry of stars, or subtle
