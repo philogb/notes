@@ -17,7 +17,7 @@ trébucher. Car il n'était pas toujours d'humeur à se coucher encore.*
 
 *C'était pour lui, l'instant le plus désolé de la journée. Dans ces
 heures de délassement et de loisirs, il se livrait à ses plus noires
-humeurs. Que de fois n'ai-he pas saisi sur son visage les marques de la
+humeurs. Que de fois n'ai-je pas saisi sur son visage les marques de la
 lutte douloureuse qu'il livrait contre sa colère! Mais la colère était
 toujours prête à jaillir et si difficile à courber! Ah, vraiment, la
 prison même eût mieux valu! Du moins, une prison ne s'est-elle jamais
@@ -26,15 +26,15 @@ pour telle, qui, sur la fin du jour, entrebâille sa porte comme si de
 rien n'était, qui joue à faire semblant?*
 
 *Telle est la force humaine, cependant, qu'au-délà du désespoir, elle
-conserve encore des richesses. Et la résignation est une apprence si
+conserve encore des richesses. Et la résignation est une apparence si
 douteuse!... Résigné, il ne l'était pas; autrement, je ne lui aurais pas
 vu, certains soirs, ce visage bouleversé, comme si une excédante
 question, jamais résolue, se fût encore une fois posée à son esprit.*
 
-*Ces heures dont il ne savait que faire, il les passait à se toumenter,
-réclamant à grands cris que nous lui laissions la lpaix, comme s'il y
+*Ces heures dont il ne savait que faire, il les passait à se tourmenter,
+réclamant à grands cris que nous lui laissions la paix, comme s'il y
 avait eu en lui la moindre paix, que nous eussions pu troubler de nos
-jeux. "La paix! Laissex-moi donc tranquille!" Et, malgré notre
+jeux. "La paix! Laissez-moi donc tranquille!" Et, malgré notre
 obéissance, il s'abîmait dans des fureurs dont nous ne sentions, hélas,
 que l'injustice.*
 
@@ -45,11 +45,11 @@ belle horloge elle-même, qu'il ne semblait plus reconnaître, tout ce
 décor des jours... Et il demeurait ainsi, jusqu'au moment où, tout d'un
 coup, il se décidait à se "jeter au panier", c'est-à-dire à se coucher.*
 
-*Pas plus que manger n;était un plaisir, se coucher n'était un repos. Il
+*Pas plus que manger n'était un plaisir, se coucher n'était un repos. Il
 le faisait toujours, non pas comme un homme fatigué qui s'abandonne au
 sommeil, escomptant pour le lendemain la joie, mais comme un vaincu qui
-n'escompte pour le lendemain que de retourner à sa chîne, avec quoi il
+n'escompte pour le lendemain que de retourner à sa chaîne, avec quoi il
 ferait aussi bien de s'étrangler. Qui fuit lâchement dans le sommeil
-chercher un oublui que ne lui permettent pas toujours ses rêves...*
+chercher un oubli que ne lui permettent pas toujours ses rêves...*
 
 Taken from "Le pain des rêves" by Louis Guilloux.

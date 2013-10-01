@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le Grand-Père lit
+title: Le Grand-Père Lit
 permalink: le-grand-pere-lit
 categories: [French]
 ---
