@@ -1,0 +1,16 @@
+---
+layout: post
+title: Dad and I in Ezeiza
+permalink: dad-ezeiza
+categories: [Memories]
+---
+
+I'm starting a new section called "memories". It'll probably have a
+random picture that was taken at some point in life and some text with
+some context. I think this will help me remember things.
+
+![Dad and I talking in Ezeiza](/notes/assets/memories/mipapaezeiza2011.jpg)
+
+My dad and I talking in a cafe at the airport in Ezeiza. This happened
+in 2011. My dad would come to the airport to say goodbye after I visited
+the family in Argentina. In 2011 I was already living in the US.
