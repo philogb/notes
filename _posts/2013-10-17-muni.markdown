@@ -1,0 +1,15 @@
+---
+layout: post
+title: Muni
+permalink: muni
+categories: [Memories]
+---
+
+Taking the muni in San Francisco. This is happening right now, but if
+you're Proustian enough you could count this as a memory too.
+
+
+<iframe class="vine-embed" src="https://vine.co/v/hw2d1nhZ92X/embed/simple" width="500" height="500" frameborder="0">
+</iframe>
+<script async="true" src="//platform.vine.co/static/scripts/embed.js" charset="utf-8">
+</script>
