@@ -1,0 +1,22 @@
+---
+layout: post
+title: Arrow
+permalink: arrow
+categories: [Design, Opinion]
+---
+
+*If there is an object known to everyone, even to savages, and one that
+can be used to indicate direction, that object is the arrow. The arrow
+leaves a taut bow and always flies in the direction of its point.*
+
+*Whoever chose the arrow as a signal to indicate direction must evidently
+have thought of this. And of course, for this purpose, it doesn't matter
+if the arrow is made of ebony, teak or a willow wand, if the arrowhead
+is made of forged iron or tiger's bone, or whether the flight that keeps
+it on a straight course is made of feathers endowed with magic powers to
+guide it to its mark. What matters is the shape.*
+
+Taken from "Design as Art" by Bruno Munari.
+
+![arrow picture](/notes/assets/arrow.jpg)
+

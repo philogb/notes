@@ -1,0 +1,22 @@
+---
+layout: post
+title: Colors
+permalink: colors
+categories: [Design, Visualization]
+---
+
+*Unfortunately people talk of colours too loosely, and create confusions
+that even those who want to be precise have to adapt themselves to. What
+colour is white wine? Yellow. But try asking the waiter for yellow wine
+and all you will get is a pitying look. Do you know what colour a sheet
+of white paper is? Well, take quite a number of sheets, or open several
+books and lay them in a row. You will find that some are yellow, some
+brownish, others grey.*
+
+*Would it be a good thing if people were taught to know their colours? I
+certainly think so. Any knowledge of the world we live in is useful, and
+enables us to understand things that previously we did not know
+existed.*
+
+Taken from "Design as Art" by Bruno Munari.
+
