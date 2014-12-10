@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Pépé"
+permalink: pepe
+categories: [French, Memories]
+---
+
+*Michel Iriart est mort lundi dans son bureau, au milieu de ses
+souvenirs, des photos, des coupures de journaux, des décorations
+militaires et de sa collection de pipes.*
+
+[Source](http://www.challenges.fr/media/20141210.AFP3014/michel-iriart-aventurier-franco-argentin-de-la-resistance-a-l-afp.html).
+
