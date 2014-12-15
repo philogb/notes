@@ -15,7 +15,7 @@ conférer l'ignoble statut de la bête domestique. Tu ne peux rester
 neutre en face d'un chien, pas plus qu'en face d'un homme. Mais tu ne
 dialogeras jamais avec un arbre. Tu ne peux pas vivre en face d'un chien
 parce que le chien, à chaque instant, te demandera de le faire vivre, de
-le nourrir, de la flatter, d'être homme pour lui, d'être son maître,
+le nourrir, de le flatter, d'être homme pour lui, d'être son maître,
 d'être le dieu tonnant ce nom de chien qui le fera aussitôt s'aplatir.
 Mais l'arbre ne te demande rien. Tu peux être Dieu des chiens, Dieu des
 chats, Dieu des pauvres, il te suffit d'une laisse, d'un peu de mou, de
