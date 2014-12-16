@@ -2,7 +2,7 @@
 layout: post
 title: "Un homme qui dort"
 permalink: un-homme-qui-dort
-categories: [French]
+categories: [French, Reading]
 ---
 
 *C'est à cause de ça que l'arbre te fascine, ou t'étonne, ou te repose, à

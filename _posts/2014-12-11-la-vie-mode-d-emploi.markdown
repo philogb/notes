@@ -2,7 +2,7 @@
 layout: post
 title: "La Vie Mode d'Emploi"
 permalink: la-vie-mode-d-emploi
-categories: [French]
+categories: [French, Reading]
 ---
 
 *Cinoc, qui avait alors une cinquantaine d'années, exerçait un curieux

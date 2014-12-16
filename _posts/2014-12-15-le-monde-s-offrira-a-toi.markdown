@@ -2,7 +2,7 @@
 layout: post
 title: "Le Monde s'offrira à toi"
 permalink: le-monde-s-offrira-a-toi
-categories: [French]
+categories: [French, Reading]
 ---
 
 *Il n'est pas nécessaire que tu sortes de ta maison. Reste à ta table et

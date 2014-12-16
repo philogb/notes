@@ -2,7 +2,7 @@
 layout: post
 title: Le Sursis
 permalink: le-sursis
-categories: [French]
+categories: [French, Reading]
 ---
 
 *Elle ne me demande pas où je vais. Elle ne me demande jamais où je vais.

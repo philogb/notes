@@ -2,7 +2,7 @@
 layout: post
 title: Était-elle vraiment indispensable?
 permalink: etait-elle-vraiment-indispensable
-categories: [French]
+categories: [French, Reading]
 ---
 
 *À quoi cela rimait-il de n'avoir pas pris de vacances depuis cinq ans,

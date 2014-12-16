@@ -2,7 +2,7 @@
 layout: post
 title: Il y a des gens exceptionnels
 permalink: il-y-a-des-gens-exceptionnels
-categories: [French]
+categories: [French, Reading]
 ---
 
 *Des patients, encore et encore. Jusqu'à ce couple, qui nous marque. "Des
