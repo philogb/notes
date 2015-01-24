@@ -133,7 +133,7 @@ homme écrasés, à qui on avait commencé de voler la vie en détail avant
 de tenter le grand coup de la lui voler en bloc. Cela, il aurait pu le
 dire s'il avait pensé une seconde qu'il fût nécessaire de se justifier
 et que sa mère pût le comprendre. Mais elle ne le pouvait pas, elle ne
-le pourrait jamais. Un mauvais hasard faisait qu'il se quitteraient mal,
+le pourrait jamais. Un mauvais hasard faisait qu'ils se quitteraient mal,
 alors qu'avec un peu de chance ils eussent pu se quitter bien, menés
 doucement jusqu'à la séparation dans la main de l'hypocrisie. Après tout
 c'eût été préférable pour elle. Elle eût moins souffert. Il avait pitié
