@@ -22,7 +22,8 @@ a team of fifty Mohawk Indians from the Caughnawaga reservation on the
 St. Lawrence River near Montreal to Pittsburgh to build the sphere.
 Surrounded by a 350-foot-diameter pool smack in the heart of the
 fairgrounds, the Unisphere was always intended to be permanent, unlike
-the Trylon and Perisphere, which were demolished and melted down to make
+the* [Trylon and Perisphere](https://en.wikipedia.org/wiki/Trylon_and_Perisphere)
+*, which were demolished and melted down to make
 weapons during World War II.*
 
 ![Trylon and Perisphere](/notes/assets/trylon_perisphere.jpg)
