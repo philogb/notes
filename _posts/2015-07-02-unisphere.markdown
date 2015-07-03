@@ -20,7 +20,7 @@ Based on the (dubious) claim that Native Americans have little or no
 fear of heights and thus make ideal bridge workers, the company brought
 a team of fifty Mohawk Indians from the Caughnawaga reservation on the
 St. Lawrence River near Montreal to Pittsburgh to build the sphere.
-Surrounded by a 350-foot-diameter pool smacjkin the heart of the
+Surrounded by a 350-foot-diameter pool smack in the heart of the
 fairgrounds, the Unisphere was always intended to be permanent, unlike
 the Trylon and Perisphere, which were demolished and melted down to make
 weapons during World War II.*
