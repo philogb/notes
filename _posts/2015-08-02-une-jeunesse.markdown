@@ -8,11 +8,11 @@ categories: [Reading, French]
 
 *- C'est intéressant vos photos, dit-elle. Vous les regardez souvent?*
 
-*- Non. Elle me foutent le cafard...*
+*- Non. Elles me foutent le cafard...*
 
 *- Pourquoi?*
 
-*- C'est triste de penser que tous ces beaux gosses on viellit ou bien
+*- C'est triste de penser que tous ces beaux gosses ont viellit ou bien
  ont disparu... Et moi, je reste là, comme un vieux ponton pourri qui
  les a vu passer. Il ne me reste que leurs photos... je voulais faire un
  autre album avec les photos de tous les chiens que j'ai eus dans ma
