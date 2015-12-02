@@ -8,7 +8,7 @@ categories: [Misc]
 I know we are still one month away from EOY but who knows when I'll get
 time to write this so future-me is telling me to do it now :)
 
-Here you can find previous editions for [2014](/notes/2014-in-books/), [2013](/notes/2013-in-books/) and [2012](/2012-in-books/).
+Here you can find previous editions for [2014](/notes/2014-in-books/), [2013](/notes/2013-in-books/) and [2012](/notes/2012-in-books/).
 
 Here's the list for 2015:
 
